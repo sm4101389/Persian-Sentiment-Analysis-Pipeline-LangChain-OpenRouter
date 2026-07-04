@@ -21,7 +21,7 @@ st.set_page_config(
 )
 
 # Configuration
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "sk-or-v1-..."
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 OPENROUTER_MODEL = "google/gemma-4-31b-it:free"
 THRESHOLD = 0.1  # Probability threshold for bad sentiment
